@@ -13,5 +13,6 @@ Following Packages and libraries are required :
 7) matplotlib
 8) accelerate
 9) pandas
-
+10) streamlit
+11) pyngrok
 *** Cuda toolkit using NVIDIA GPU is preferred over CPU for fast processing of the system file.
